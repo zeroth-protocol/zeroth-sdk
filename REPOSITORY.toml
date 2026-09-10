@@ -1,0 +1,5 @@
+name = "zeroth-sdk"
+visibility = "public"
+classification = "PUBLIC-PROTOCOL"
+license = "Apache-2.0"
+description = "Public SDK interfaces and reference integration tooling for Zeroth."
